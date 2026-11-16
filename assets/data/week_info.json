@@ -55,5 +55,12 @@
 		"tracks": ["Ugh", "Guns", "Stress"],
 		"track_filenames": ["ugh", "guns", "stress"],
         "char_path": "dad/Dad"
+	},	"8": {
+		"save_name": "qt",
+		"week_name": "Cutie",
+		"week_filename": "QT_Week",
+		"tracks": ["Carefree", "Careless", "Censory-Overload", "Terminate"],
+		"track_filenames": ["carefree", "careless", "censory-overload", "terminate"],
+		"char_path": "dad/Dad"
 	}
 }

@@ -1,5 +1,5 @@
 {
-    "bopeebo": {
+	"bopeebo": {
 		"char_name": "Daddy Dearest",
 		"week_filename": "Week_1",
 		"icon_idx": 12
@@ -70,5 +70,41 @@
 		"icon_idx": 67,
 		"category": "weegee",
 		"chart_type": 1
+	},
+	"carefree": {
+		"char_name": "QT",
+		"week_filename": "QT_Week",
+		"icon_idx": 12,
+		"corrected_name": "Carefree",
+		"category": "qt",
+		"extension": "ogg",
+		"chart_type": 0
+	},
+	"careless": {
+		"char_name": "QT",
+		"week_filename": "QT_Week",
+		"icon_idx": 12,
+		"corrected_name": "Careless",
+		"category": "qt",
+		"extension": "ogg",
+		"chart_type": 0
+	},
+	"censory-overload": {
+		"char_name": "KB",
+		"week_filename": "QT_Week",
+		"icon_idx": 12,
+		"corrected_name": "Censory-Overload",
+		"category": "qt",
+		"extension": "ogg",
+		"chart_type": 0
+	},
+	"terminate": {
+		"char_name": "KB",
+		"week_filename": "QT_Week",
+		"icon_idx": 12,
+		"corrected_name": "Terminate",
+		"category": "qt",
+		"extension": "ogg",
+		"chart_type": 0
 	}
 }
